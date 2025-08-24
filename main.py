@@ -9,4 +9,4 @@ def home():
     if request.method == 'GET':
         return render_template('index.html')
     if request.method == 'POST':
-        items.append('name','Ph.no)
+
